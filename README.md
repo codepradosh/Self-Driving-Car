@@ -9,6 +9,6 @@ Download the dataset  [https://drive.google.com/file/d/0B-KJCaaF7elleG1RbzVPZWV4
 
 Use ***Self Driving Car.ipynb*** to train the model
 
-Use ***python run_atan.py** to run the model on the dataset
+Use ***python run_atan.py*** to run the model on the dataset
 
 To visualize training using ***Tensorboard use tensorboard --logdir=./logs***, then open http://0.0.0.0:6006/ into your web browser.
